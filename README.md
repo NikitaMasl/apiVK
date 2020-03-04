@@ -1,12 +1,12 @@
-#**Application goals:**
+# **Application goals:**
 This project demonstrates the using of VK API
 
-##**Limitations:**
+## **Limitations:**
 - This application doesn’t work with localhost. It can only be run on the existing domain due to restrictions from VK;.
 - The logout from VK doesn’t work properly. This is because the user's information from VK form is stored in user's cookies to which the application doesn’t have access.
 - This application was not tested on mobile devices
 
-##**About the application:**
+## **About the application:**
 The working application can be viewed here: http://allbestballs.ru/'.
 
 Only required permissions are requested from VK:
